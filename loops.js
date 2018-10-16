@@ -28,7 +28,7 @@ var i = 0
   do {
     array.pop;
 }
-while (array.length > 0 && incrementVariable < array.length)
+while (array.length >= 0 && incrementVariable < array.length)
 
 return array
 }
