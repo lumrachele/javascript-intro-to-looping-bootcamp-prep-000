@@ -24,7 +24,7 @@ function incrementVariable(){
 }
 
 function doWhileLoop(array) {
-var i = 1
+var i = 0
   do {
     array.pop;
 }
